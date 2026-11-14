@@ -5,5 +5,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
-  <img alt="yoooonn's public GitHub stats" src="./profile/stats.svg">
+  <img alt="yoooonn's GitHub stats" src="./profile/stats.svg">
 </picture>
